@@ -8,7 +8,7 @@ AS mailbert is updated I will edit the README with new info and setup informatio
 To make a feature request make a issue with the header of FEATURE REQUEST and explain the feature you want. I will reply and let you know if i can add it. If addable I will close the ticket after the bot has been updated with your idea
 
 
-As it stands the way to setup mailbert will need you to have a google cloud project with gmail api enabled and a OAuth token saved as a JSON added to the mailbert folder root with the name requirements.txt (This will be changed later) 
+As it stands the way to setup mailbert will need you to have a google cloud project with gmail api enabled and a OAuth token saved as a JSON added to the mailbert folder root with the name creds.JSON
 
 After that has been setup run mailbert and allow him to access your gmail via the API after that rerun him and he should work.
 
